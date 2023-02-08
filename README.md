@@ -2,7 +2,8 @@
 Bike-share analysis case study
 
 
-Introduction
+### Introduction
+
 Welcome to the Cyclistic bike-share analysis case study! In this case study, you will perform many real-world tasks of a junior
 data analyst. You will work for a fictional company, Cyclistic, and meet different characters and team members. In order to
 answer the key business questions, you will follow the steps of the data analysis process: ask, prepare, process, analyze,
@@ -13,7 +14,8 @@ case study anytime. Then, when you begin your job hunt, your case study will be 
 knowledge and skills to potential employers.
 
 
-Scenario
+### Scenario
+
 You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director
 of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore,
 your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights,
@@ -36,7 +38,8 @@ achieve them.
 recommended marketing program.
 
 
-About the company
+### About the company
+
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that
 are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and
 returned to any other station in the system anytime.
@@ -56,5 +59,5 @@ interested in analyzing the Cyclistic historical bike trip data to identify tren
 
 
 
-Moreno has assigned you the first question to answer: How do annual members and casual riders use Cyclistic bikes
+* Moreno has assigned you the first question to answer: How do annual members and casual riders use Cyclistic bikes
 differently?
