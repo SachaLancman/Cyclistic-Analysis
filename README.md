@@ -1,6 +1,9 @@
 # Cyclistic-Analysis
 Bike-share analysis case study
 
+* Data available here: [https://divvy-tripdata.s3.amazonaws.com/index.html](https://divvy-tripdata.s3.amazonaws.com/index.html)
+* The data has been made available by Motivate International Inc. under this[license](https://ride.divvybikes.com/data-license-agreement)
+
 
 ### Introduction
 
